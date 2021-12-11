@@ -1,5 +1,5 @@
 # Datasets
 Datasets for the EEMBC Energy Runner
 * Copy into 
-'''Bash
+```bash
 ~/eembc/runner/benchmarks/ulp-mlperf/
